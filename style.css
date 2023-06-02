@@ -11,9 +11,28 @@ margin-left: 100px;
 .cabeca{
     display: flex;
     justify-content: center;
+    background-color: aquamarine;
 }
-
-
+.nomes{
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: 20% 20%;
+    justify-content:center ;
+    margin-left: 280px;
+    
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    
+}
+.pica{
+    background-image:  linear-gradient(aquamarine, lightgreen);
+}
+.pe{
+    margin-top: 105px;
+}
 
 
 
