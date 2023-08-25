@@ -11,27 +11,32 @@ margin-left: 100px;
 .cabeca{
     display: flex;
     justify-content: center;
-    background-color: aquamarine;
+    background-color: rgb(22, 37, 105);
 }
 .nomes{
-    margin-top: 40px;
+    margin-top: 75px;
     display: grid;
-    grid-template-columns: 20% 20%;
+    grid-template-columns: 25% 90%;
     justify-content:center ;
-    margin-left: 280px;
+    margin-left: 330px;
     
 }
 .titulo{
     display: flex;
-    justify-content: center;
+    justify-content:center;
     margin-top: 50px;
     
 }
-.pica{
-    background-image:  linear-gradient(aquamarine, lightgreen);
+.po{
+    background-image:  linear-gradient(rgb(22, 37, 105), rgb(37, 11, 187));
 }
 .pe{
-    margin-top: 105px;
+    margin-top: 1050px;
+}
+
+{
+
+
 }
 
 
