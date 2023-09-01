@@ -1,52 +1,58 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-.luan{
-width: 90%;
-margin-left: 100px;
-
-}
-
-.cabeca{
-    display: flex;
-    justify-content: center;
-    background-color: rgb(22, 37, 105);
-}
-.nomes{
-    margin-top: 75px;
-    display: grid;
-    grid-template-columns: 25% 90%;
-    justify-content:center ;
-    margin-left: 330px;
-    
+body{
+background-color: blue;
 }
 .titulo{
+
+ text-align: center;
+ margin-top: 0%;
+
+ }
+header{
+background-color: blue;
+}
+.S{
+ height: 500px;
+display: flex;
+justify-content: space-around;
+background: linear-gradient(aqua, blue );
+margin-top: -1.6%;
+margin: 0;
+position: relative;
+
+
+}
+.I1{
+    position: absolute;
+top: 35%;
+ right: 30%;
+ width: 15%;
+}
+.I2{
+    position: absolute;
+    top: 35%;
+    right: 5%;
+    width: 15%;
+}
+.I3{
+    position: absolute;
+    top: 35%;
+    left: 5%;
+    width:15%;
+}
+.I4{
+    position: absolute;
+    top: 35%;
+    left: 30%;
+    width: 15%;
+}
+.Texto{
+    position: absolute;
+    top: 65%;
+    font-size: 140%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer{
     display: flex;
-    justify-content:center;
-    margin-top: 50px;
-    
+    justify-content: space-around;
+    background: linear-gradient(aqua, blue);
 }
-.po{
-    background-image:  linear-gradient(rgb(22, 37, 105), rgb(37, 11, 187));
-}
-.pe{
-    margin-top: 1050px;
-}
-
-{
-.imgs
-
-
-}
-
-
-
-
-
-
-
-
-
-
-  
