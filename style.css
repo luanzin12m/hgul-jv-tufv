@@ -1,58 +1,13 @@
 body{
-background-color: blue;
+    background-image: url(r4f105707_rrd_tratores_serie_9r_maior_trator_articulado_gradeando_large_e2a5954bf051879aedfe79fd8c6861d4b338c22b\ \(1\).avif);
+    background-size: cover;
 }
-.titulo{
 
- text-align: center;
- margin-top: 0%;
-
- }
-header{
-background-color: blue;
-}
-.S{
- height: 500px;
+.l{
 display: flex;
-justify-content: space-around;
-background: linear-gradient(aqua, blue );
-margin-top: -1.6%;
-margin: 0;
-position: relative;
+justify-content: center;
+ }
 
 
-}
-.I1{
-    position: absolute;
-top: 35%;
- right: 30%;
- width: 15%;
-}
-.I2{
-    position: absolute;
-    top: 35%;
-    right: 5%;
-    width: 15%;
-}
-.I3{
-    position: absolute;
-    top: 35%;
-    left: 5%;
-    width:15%;
-}
-.I4{
-    position: absolute;
-    top: 35%;
-    left: 30%;
-    width: 15%;
-}
-.Texto{
-    position: absolute;
-    top: 65%;
-    font-size: 140%;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-footer{
-    display: flex;
-    justify-content: space-around;
-    background: linear-gradient(aqua, blue);
-}
+
+
